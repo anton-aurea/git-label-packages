@@ -1,6 +1,10 @@
 [
-  { "name": "Type: Bug", "color": "#e11d21" },
-  { "name": "Type: Maintenance", "color": "#fbca04" },
-  { "name": "Type: Enhancement", "color": "#84b6eb" },
-  { "name": "Type: Question", "color": "#cc317c" }
+  { "name": "Bug", "color": "#e11d21" },
+  { "name": "Maintenance", "color": "#fbca04" },
+  { "name": "Enhancement", "color": "#84b6eb" },
+  { "name": "Question", "color": "#cc317c" },
+  { "name": "Test Automation", "color": "#0c6b9b" },
+  { "name": "New test", "color": "#84b6eb" },
+  { "name": "Failure fix", "color": "#fbca04" },
+  { "name": "Automation framework", "color": "#cc317c" }
 ]

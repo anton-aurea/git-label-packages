@@ -1,12 +1,16 @@
 [
-  { "name": "Status: Abandoned", "color": "#000000" },
-  { "name": "Status: Accepted", "color": "#009800" },
-  { "name": "Status: Available", "color": "#bfe5bf" },
-  { "name": "Status: Blocked", "color": "#e11d21" },
-  { "name": "Status: Completed", "color": "#006b75" },
-  { "name": "Status: In Progress", "color": "#cccccc" },
-  { "name": "Status: On Hold", "color": "#e11d21" },
-  { "name": "Status: Pending", "color": "#fef2c0" },
-  { "name": "Status: Review Needed", "color": "#fbca04" },
-  { "name": "Status: Revision Needed", "color": "#e11d21" }
+  { "name": "Abandoned", "color": "#000000" },
+  { "name": "Accepted", "color": "#009800" },
+  { "name": "Available", "color": "#bfe5bf" },
+  { "name": "Blocked", "color": "#e11d21" },
+  { "name": "Completed", "color": "#006b75" },
+  { "name": "In Progress", "color": "#cccccc" },
+  { "name": "On Hold", "color": "#e11d21" },
+  { "name": "Pending", "color": "#fef2c0" },
+  { "name": "Review Needed", "color": "#fbca04" },
+  { "name": "Revision Needed", "color": "#e11d21" },
+  { "name": "Ready For Review", "color": "#128A0C" },
+  { "name": "Ready For External Review", "color": "#fef2c0" },
+  { "name": "Ready For Merge", "color": "#8eed28" },
+  { "name": "Requires Fix", "color": "#e11d21" }
 ]

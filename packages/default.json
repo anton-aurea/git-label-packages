@@ -5,5 +5,10 @@
   { "name": "help wanted", "color": "#159818" },
   { "name": "invalid", "color": "#e6e6e6" },
   { "name": "question", "color": "#cc317c" },
-  { "name": "wontfix", "color": "#ffffff" }
+  { "name": "wontfix", "color": "#ffffff" },
+  { "name": "protractor", "color": "#9a82ce" },
+  { "name": "conflicts", "color": "#f27d9b" },
+  { "name": "dependent", "color": "#cccccc" },
+  { "name": "missing ci link", "color": "#f2f762" },
+  { "name": "failing tests", "color": "#cc317c" }
 ]

@@ -58,7 +58,7 @@ execute_label()
 
 if [ "$COMMAND" = "$DELETE" ]
 then
-    gh re --label --delete $LABEL --org $GITHUB_PROJECT --repo $REPO
+    gh re --label --$COMMAND $LABEL --org $GITHUB_PROJECT --repo $REPO
 else
     gh re --label --$COMMAND $LABEL --color $COLOR --org $GITHUB_PROJECT --repo $REPO
 fi
